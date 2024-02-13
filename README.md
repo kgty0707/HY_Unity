@@ -5,7 +5,7 @@
   Dive into the captivating world of `A graduate student's first-floor lab tucked away in the woods` as we utilize Unity to craft an immersive experience.
 
 
-<img src="https://img.shields.io/badge/Instagram-hexcode#000000?style=plastic&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/unity-hexcode000000?style=plastic&logo=unity&logoColor=white"/>
 
 
 ## 실행방법
