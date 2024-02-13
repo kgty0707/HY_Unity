@@ -35,8 +35,11 @@ npm test
 
 ## 정보
 
-heymin – [@web mail](goaehfkwl@hanyang.ac.kr) – goaehfkwl@hanyang.ac.kr
-minju – [@web mail](goaehfkwl@hanyang.ac.kr) – goaehfkwl@hanyang.ac.kr
+- heymin
+  - 이메일: [goaehfkwl@SD.ac.kr](mailto:goaehfkwl@SD.ac.kr)
+
+- minju
+  - 이메일: [goaehfkwl@DS.ac.kr](mailto:goaehfkwl@DS.ac.kr)
 
 XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
 
