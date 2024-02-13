@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-# HY_Unity
+# UnityToyProject_HY
 > This Unity toy project is a collaborative effort with fellow students from Hanyang Graduation University. 
   Dive into the captivating world of `A graduate student's first-floor lab tucked away in the woods` as we utilize Unity to craft an immersive experience.
 
