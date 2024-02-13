@@ -6,6 +6,7 @@
 
 
 <img src="https://img.shields.io/badge/unity-hexcode000000?style=plastic&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/csharp-hexcode#512BD4?style=plastic&logo=csharp&logoColor=white"/>
 
 
 ## 실행방법
