@@ -4,9 +4,8 @@
 > This Unity toy project is a collaborative effort with fellow students from Hanyang Graduation University. 
   Dive into the captivating world of `A graduate student's first-floor lab tucked away in the woods` as we utilize Unity to craft an immersive experience.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+
+<img src="https://img.shields.io/badge/Instagram-hexcode#000000?style=plastic&logo=unity&logoColor=white"/>
 
 
 ## 실행방법
@@ -39,3 +38,5 @@ heymin – [@web mail](goaehfkwl@hanyang.ac.kr) – goaehfkwl@hanyang.ac.kr
 minju – [@web mail](goaehfkwl@hanyang.ac.kr) – goaehfkwl@hanyang.ac.kr
 
 XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
