@@ -36,7 +36,7 @@ _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
   - 이메일: [goaehfkwl@SD.ac.kr](mailto:goaehfkwl@SD.ac.kr)
 
 - minju
-  - 이메일: [goaehfkwl@DS.ac.kr](mailto:goaehfkwl@DS.ac.kr)
+  - 이메일: [smj0324@hanyang.ac.kr](mailto:smj0324@hanyang.ac.kr)
 
 XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
 
