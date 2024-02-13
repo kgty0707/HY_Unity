@@ -5,9 +5,8 @@
   Dive into the captivating world of `A graduate student's first-floor lab tucked away in the woods` as we utilize Unity to craft an immersive experience.
 
 
-<img src="https://img.shields.io/badge/unity-hexcode000000?style=plastic&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/c#-hexcode512BD4?style=plastic&logo=c#&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/unity-000000?style=plastic&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 ## 실행방법
 
