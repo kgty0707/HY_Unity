@@ -31,7 +31,7 @@ _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 ## Contributing&Contact
 
 - heymin
-  - 이메일: [goaehfkwl@SD.ac.kr](mailto:goaehfkwl@SD.ac.kr)
+  - 이메일: [goaehfkwl@hanyang.ac.kr](mailto:goaehfkwl@hanyang.ac.kr)
 
 - minju
   - 이메일: [smj0324@hanyang.ac.kr](mailto:smj0324@hanyang.ac.kr)
