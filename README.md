@@ -22,9 +22,7 @@ edit autoexec.bat
 
 ## Usage
 
-스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
-
-_더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
+![image](https://github.com/kgty0707/UnityToyProject_HY/assets/156056438/8d7f5d00-b823-4310-b1c3-300bea5dc0aa)
 
 
 
