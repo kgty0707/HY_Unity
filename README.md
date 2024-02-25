@@ -25,11 +25,20 @@ Add this unity project from your clone repository.
 
 ![image](https://github.com/kgty0707/UnityToyProject_HY/assets/156056438/8d7f5d00-b823-4310-b1c3-300bea5dc0aa)
 
+# Assets List
+-- Environment --
+Low-Poly Medieval Market
+Lion Statue
+Low Poly: Woods Lifestyle
+Lowpoly Modern City Decorations Set
+Low-Poly Nature
+Low-Poly Simple Nature Pack
+-- Lab --
 
 
 ## Contributing&Contact
 
-- heymin
+- hyemin
   - 이메일: [goaehfkwl@hanyang.ac.kr](mailto:goaehfkwl@hanyang.ac.kr)
 
 - minju
