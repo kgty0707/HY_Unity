@@ -27,12 +27,14 @@ Add this unity project from your clone repository.
 
 # Assets List
 -- Environment --
-Low-Poly Medieval Market
-Lion Statue
-Low Poly: Woods Lifestyle
-Lowpoly Modern City Decorations Set
-Low-Poly Nature
-Low-Poly Simple Nature Pack
+
+- Low-Poly Medieval Market
+- Lion Statue
+- Low Poly: Woods Lifestyle
+- Lowpoly Modern City Decorations Set
+- Low-Poly Nature
+- Low-Poly Simple Nature Pack
+
 -- Lab --
 
 
