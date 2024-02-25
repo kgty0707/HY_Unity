@@ -17,8 +17,9 @@
 윈도우:
 
 ```sh
-edit autoexec.bat
+git clone https://github.com/kgty0707/UnityToyProject_HY.git
 ```
+Add this unity project from your clone repository.
 
 ## Usage
 
