@@ -36,7 +36,13 @@ Add this unity project from your clone repository.
 - Low-Poly Simple Nature Pack
 
 -- Lab --
-
+- House Interior - Free
+- Free: House Interior
+- Furniture FREE
+- Low Poly Houses Free Pack
+- Furniture FREE Pack
+- Free Laboratory Pack
+- Ultimate Low Poly Dungeon
 
 ## Contributing&Contact
 
